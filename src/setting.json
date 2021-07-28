@@ -1,0 +1,11 @@
+{
+    "cource_map": {
+        "baseLocal": "/Applications/我的工作/TK/mycode/gitlab/tk_h5_source/web-3.0/sourceMap/",
+        "baseServer": "http://localhost:10010"
+    },
+    "publish": {
+        "web-3.0": {
+            "version": "4.5.0"
+        }
+    }
+}
